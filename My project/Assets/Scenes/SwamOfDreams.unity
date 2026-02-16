@@ -534,15 +534,15 @@ PrefabInstance:
     - target: {fileID: 114865344359803568, guid: 3019d4eebe2593e428d7b9ccb096ceda, type: 3}
       propertyPath: lkgDisplay.calibration.rawJson
       value: "{\r\n  \"DPI\": {\r\n    \"value\": 324.0\r\n  },\r\n  \"center\":
-        {\r\n    \"value\": 0.78734673532015509\r\n  },\r\n  \"configVersion\": \"1.0\",\r\n 
-        \"flipImageX\": {\r\n    \"value\": 0\r\n  },\r\n  \"flipImageY\": {\r\n   
-        \"value\": 0\r\n  },\r\n  \"flipSubp\": {\r\n    \"value\": 0.0\r\n  },\r\n 
+        {\r\n    \"value\": 0.78734672069549561\r\n  },\r\n  \"configVersion\": \"3.0\",\r\n 
+        \"flipImageX\": {\r\n    \"value\": 0.0\r\n  },\r\n  \"flipImageY\": {\r\n   
+        \"value\": 0.0\r\n  },\r\n  \"flipSubp\": {\r\n    \"value\": 0.0\r\n  },\r\n 
         \"fringe\": {\r\n    \"value\": 0.0\r\n  },\r\n  \"invView\": {\r\n    \"value\":
-        1\r\n  },\r\n  \"pitch\": {\r\n    \"value\": 52.599561421022507\r\n  },\r\n 
+        1.0\r\n  },\r\n  \"pitch\": {\r\n    \"value\": 52.599559783935547\r\n  },\r\n 
         \"screenH\": {\r\n    \"value\": 2048.0\r\n  },\r\n  \"screenW\": {\r\n   
         \"value\": 1536.0\r\n  },\r\n  \"serial\": \"LKG-PORT-23104\",\r\n  \"slope\":
-        {\r\n    \"value\": -7.1450729233820454\r\n  },\r\n  \"verticalAngle\": {\r\n   
-        \"value\": 0\r\n  },\r\n  \"viewCone\": {\r\n    \"value\": 40.0\r\n  }\r\n}"
+        {\r\n    \"value\": -7.1450729370117188\r\n  },\r\n  \"verticalAngle\": {\r\n   
+        \"value\": 0.0\r\n  },\r\n  \"viewCone\": {\r\n    \"value\": 40.0\r\n  }\r\n}"
       objectReference: {fileID: 0}
     - target: {fileID: 114865344359803568, guid: 3019d4eebe2593e428d7b9ccb096ceda, type: 3}
       propertyPath: lkgDisplay.calibration.screenH
@@ -574,7 +574,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114865344359803568, guid: 3019d4eebe2593e428d7b9ccb096ceda, type: 3}
       propertyPath: lkgDisplay.calibration.configVersion
-      value: 1.0
+      value: 3.0
       objectReference: {fileID: 0}
     - target: {fileID: 114865344359803568, guid: 3019d4eebe2593e428d7b9ccb096ceda, type: 3}
       propertyPath: lkgDisplay.defaultQuilt.renderAspect
