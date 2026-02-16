@@ -418,6 +418,7 @@
 "Assets/LookingGlass/Examples/URP/ExampleAssets/TutorialInfo/Scripts/Readme.cs"
 "Assets/LookingGlass/Extras/OBEY Game Assets/lightFlicker.cs"
 "Assets/scripts/Manager.cs"
+"Assets/scripts/mwow.cs"
 -langversion:9.0
 /deterministic
 /optimize+
