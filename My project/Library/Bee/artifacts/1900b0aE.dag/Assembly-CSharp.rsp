@@ -417,6 +417,7 @@
 "Assets/LookingGlass/Examples/DemoResources/LookingGlass Alcove/DynamicAlcove.cs"
 "Assets/LookingGlass/Examples/URP/ExampleAssets/TutorialInfo/Scripts/Readme.cs"
 "Assets/LookingGlass/Extras/OBEY Game Assets/lightFlicker.cs"
+"Assets/scripts/Manager.cs"
 -langversion:9.0
 /deterministic
 /optimize+
