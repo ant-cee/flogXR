@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 772.8
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Hierarchy
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 321}
   m_MaxSize: {x: 10000, y: 10000}
@@ -192,8 +192,8 @@ MonoBehaviour:
     y: 0
     width: 224
     height: 445.6
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 226}
+  m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -273,8 +273,8 @@ MonoBehaviour:
     y: 0
     width: 364
     height: 716.8
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 76}
+  m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -346,7 +346,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 146.80002}
     m_SelectedIDs: f88c0000
     m_LastClickedID: 36088
-    m_ExpandedIDs: 00000000f68c0000f88c0000fa8c0000fc8c0000fe8c0000008d0000028d0000048d0000068d0000088d00000a8d00000c8d0000108d0000128d0000148d0000ae98000000ca9a3b
+    m_ExpandedIDs: 00000000f68c0000f88c0000fa8c0000fc8c0000fe8c0000008d0000028d0000048d0000068d0000088d00000a8d00000c8d00000e8d0000108d0000128d0000148d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -403,7 +403,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000a88c000000000000f89a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -471,10 +471,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: a8e3ffffc0e3ffffa6e7ffff9ceaffff80ebfffffef3ffffeef4fffff0faffff
+      scrollPos: {x: 0, y: 33.399994}
+      m_SelectedIDs: f28b0000
+      m_LastClickedID: 35826
+      m_ExpandedIDs: f0faffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1128,7 +1128,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.19100642, y: -0.20332229, z: 0.04049655, w: 0.9595206}
     speed: 2
-    m_Value: {x: 0.19099276, y: -0.20330775, z: 0.040493656, w: 0.959452}
+    m_Value: {x: -0.19100642, y: 0.20332229, z: -0.04049655, w: -0.9595206}
   m_Size:
     m_Target: 1.2124355
     speed: 2
@@ -1262,7 +1262,7 @@ MonoBehaviour:
       height: 1638.4
     m_MinimalGUI: 1
   m_defaultScale: 0.24328613
-  m_LastWindowPixelSize: {x: 1182.5, y: 524.5}
+  m_LastWindowPixelSize: {x: 946, y: 419.6}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
