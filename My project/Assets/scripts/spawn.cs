@@ -4,8 +4,8 @@ using UnityEngine;
 public class moveToAcross : MonoBehaviour
 {
 
-    public GameObject[] npcPrefabs; // Drop your guy prefabs here
-    public float spawnInterval = 5.0f; // Seconds between spawns
+    public GameObject[] npcPrefabs; 
+    public float spawnInterval = 5.0f; 
     private float timer;
 
     void Update()
