@@ -56,7 +56,7 @@ public class OnSpaceBarPress : MonoBehaviour
     {
 
         GiveMeFrog.SetBlendShapeWeight(0, progres);
-        progres--;
+        progres -= 3;
 
         if(progres <= 0)
         {
@@ -70,7 +70,7 @@ public class OnSpaceBarPress : MonoBehaviour
     public void returnToNormal()
     {
         GiveMeFrog.SetBlendShapeWeight(0, progres);
-        progres++;
+        progres += 2;
 
         if (progres >= 100)
         {

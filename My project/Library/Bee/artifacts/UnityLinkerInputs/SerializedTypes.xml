@@ -1,0 +1,57 @@
+<linker>
+	<assembly fullname="GraphQLClient">
+		<type fullname="GraphQLClient.GraphQLField" preserve="nothing" serialized="true"/>
+		<type fullname="GraphQLClient.GraphQLField/PossibleField" preserve="nothing" serialized="true"/>
+		<type fullname="GraphQLClient.GraphQLQuery" preserve="nothing" serialized="true"/>
+		<type fullname="GraphQLClient.GraphQLQueryType" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="LookingGlass">
+		<type fullname="LookingGlass.HologramCamera/DisplayTarget" preserve="nothing" serialized="true"/>
+		<type fullname="LookingGlass.HologramCameraDebugging" preserve="nothing" serialized="true"/>
+		<type fullname="LookingGlass.HologramCameraEvents" preserve="nothing" serialized="true"/>
+		<type fullname="LookingGlass.HologramCameraGizmos" preserve="nothing" serialized="true"/>
+		<type fullname="LookingGlass.HologramCameraProperties" preserve="nothing" serialized="true"/>
+		<type fullname="LookingGlass.HologramViewInterpolation" preserve="nothing" serialized="true"/>
+		<type fullname="LookingGlass.ManualCalibrationMode" preserve="nothing" serialized="true"/>
+		<type fullname="LookingGlass.OptimizationProperties" preserve="nothing" serialized="true"/>
+		<type fullname="LookingGlass.OutputFolder" preserve="nothing" serialized="true"/>
+		<type fullname="LookingGlass.PluginSemanticVersion" preserve="nothing" serialized="true"/>
+		<type fullname="LookingGlass.QuiltCapture/ShortcutKeys" preserve="nothing" serialized="true"/>
+		<type fullname="LookingGlass.QuiltCaptureMode" preserve="nothing" serialized="true"/>
+		<type fullname="LookingGlass.QuiltCaptureOverrideSettings" preserve="nothing" serialized="true"/>
+		<type fullname="LookingGlass.QuiltFilterMode" preserve="nothing" serialized="true"/>
+		<type fullname="LookingGlass.QuiltPreset" preserve="nothing" serialized="true"/>
+		<type fullname="LookingGlass.QuiltRecordingPreset" preserve="nothing" serialized="true"/>
+		<type fullname="LookingGlass.QuiltRecordingSettings" preserve="nothing" serialized="true"/>
+		<type fullname="LookingGlass.QuiltScreenshotPreset" preserve="nothing" serialized="true"/>
+		<type fullname="LookingGlass.RenderStack" preserve="nothing" serialized="true"/>
+		<type fullname="LookingGlass.RenderStep" preserve="nothing" serialized="true"/>
+		<type fullname="LookingGlass.RenderStep/Type" preserve="nothing" serialized="true"/>
+		<type fullname="LookingGlass.SerializableVersion" preserve="nothing" serialized="true"/>
+		<type fullname="LookingGlass.SizeMode" preserve="nothing" serialized="true"/>
+		<type fullname="LookingGlass.Toolkit.Calibration" preserve="nothing" serialized="true"/>
+		<type fullname="LookingGlass.Toolkit.Display" preserve="nothing" serialized="true"/>
+		<type fullname="LookingGlass.Toolkit.DisplayInfo" preserve="nothing" serialized="true"/>
+		<type fullname="LookingGlass.Toolkit.LKGDeviceTemplate" preserve="nothing" serialized="true"/>
+		<type fullname="LookingGlass.Toolkit.LKGDeviceType" preserve="nothing" serialized="true"/>
+		<type fullname="LookingGlass.Toolkit.QuiltSettings" preserve="nothing" serialized="true"/>
+		<type fullname="LookingGlass.TransformMode" preserve="nothing" serialized="true"/>
+		<type fullname="LookingGlass.ViewRenderEvent" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="Unity.InputSystem">
+		<type fullname="UnityEngine.InputSystem.InputAction" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.InputSystem.InputActionMap" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.InputSystem.InputBinding" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.InputSystem.InputControlScheme" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.InputSystem.InputControlScheme/DeviceRequirement" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.InputSystem.PlayerInput/ActionEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.InputSystem.PlayerInput/ControlsChangedEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.InputSystem.PlayerInput/DeviceLostEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.InputSystem.PlayerInput/DeviceRegainedEvent" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule">
+		<type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true"/>
+	</assembly>
+</linker>
